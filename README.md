@@ -1,2 +1,2 @@
 # demo-repo
-Just a trail
+Just a trail.
